@@ -1,0 +1,13 @@
+#album {
+    width: 250px;
+    border-radius: 20px;
+
+}
+button {
+    border-radius: 5px;
+    border-color: rgb(146, 127, 255);
+    background-color: rgba(77, 44, 168, 0.486) ;
+    border-style: dotted;
+    
+}
+   
